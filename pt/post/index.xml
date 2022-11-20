@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on henriquexns</title>
+    <link>https://henriquexns.github.io/pt/post/</link>
+    <description>Recent content in Posts on henriquexns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>henriquexns@pm.me (henriquexns)</managingEditor>
+    <webMaster>henriquexns@pm.me (henriquexns)</webMaster>
+    <lastBuildDate>Sun, 20 Nov 2022 15:57:35 -0300</lastBuildDate><atom:link href="https://henriquexns.github.io/pt/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post em Português</title>
+      <link>https://henriquexns.github.io/pt/post/hello/</link>
+      <pubDate>Sun, 20 Nov 2022 15:57:35 -0300</pubDate>
+      <author>henriquexns@pm.me (henriquexns)</author>
+      <guid>https://henriquexns.github.io/pt/post/hello/</guid>
+      <description>Olá </description>
+    </item>
+    
+  </channel>
+</rss>

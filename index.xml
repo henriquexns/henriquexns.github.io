@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>henriquexns</title>
+    <link>https://henriquexns.github.io/</link>
+    <description>Recent content on henriquexns</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>henriquexns@pm.me (henriquexns)</managingEditor>
+    <webMaster>henriquexns@pm.me (henriquexns)</webMaster>
+    <lastBuildDate>Sun, 20 Nov 2022 16:00:15 -0300</lastBuildDate><atom:link href="https://henriquexns.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://henriquexns.github.io/page/about/</link>
+      <pubDate>Sun, 20 Nov 2022 16:00:15 -0300</pubDate>
+      <author>henriquexns@pm.me (henriquexns)</author>
+      <guid>https://henriquexns.github.io/page/about/</guid>
+      <description>Hi, I&amp;rsquo;m Pedro Henrique </description>
+    </item>
+    
+    <item>
+      <title>Post in english</title>
+      <link>https://henriquexns.github.io/post/hello/</link>
+      <pubDate>Sun, 20 Nov 2022 15:57:35 -0300</pubDate>
+      <author>henriquexns@pm.me (henriquexns)</author>
+      <guid>https://henriquexns.github.io/post/hello/</guid>
+      <description>Hello </description>
+    </item>
+    
+  </channel>
+</rss>
